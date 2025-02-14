@@ -73,7 +73,7 @@ def tooltip_html(text):
 # =============================================================================
 def get_api_data():
     # Substitua pela URL correta da sua API
-    api_url = "https://api.seusistemacobrancas.com/dados"  
+    api_url = "https://sistemahrv-jyehvvbzwkqmwnu5q87gsy.streamlit.app/"  
     # Token de autenticação
     api_token = "$aact_MzkwODA2MWY2OGM3MWRlMDU2NWM3MzJlNzZmNGZhZGY6OmYyMGRlN2RiLTVhM2QtNDA3My1hYjkxLWI2NTA5ZjhmZGExYjo6JGFhY2hfOTNmODQ4NmQtYjg4Yy00NWM1LTgxY2QtY2NjNGEyYTcyNDhm"
     
